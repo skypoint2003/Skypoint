@@ -27,7 +27,7 @@ I use my GitHub profile as a canvas to showcase my coding skills, collaborate wi
 
 •[Project 1: Wall Clock]: A visually appealing and functional wall clock created with HTML, CSS, and JavaScript. An engaging and educational project for web developers.
 
-•[Project 2 Digital Clock]: The digital clock is a web-based timekeeping project created with HTML, CSS, and JavaScript. It accurately displays the current time, including hours, minutes, and seconds, in a visually appealing and interactive format. Tried making it both functional and user-friendly.
+•[Project 2: Digital Clock]: The digital clock is a web-based timekeeping project created with HTML, CSS, and JavaScript. It accurately displays the current time, including hours, minutes, and seconds, in a visually appealing and interactive format. Tried making it both functional and user-friendly.
 
 
 
