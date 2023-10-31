@@ -42,4 +42,8 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 skypoint2003/skypoint2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c347054734e676b616d78666b325a4c712f67697068792e676966](https://github.com/skypoint2003/skypoint2003/assets/145859897/1dd5e62b-a943-41c3-b736-567303ea665a)
+<!---![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c347054734e676b616d78666b325a4c712f67697068792e676966](https://github.com/skypoint2003/skypoint2003/assets/145859897/1dd5e62b-a943-41c3-b736-567303ea665a)--->
+<div style="text-align: center;">
+    <img src="https://github.com/skypoint2003/skypoint2003/assets/145859897/1dd5e62b-a943-41c3-b736-567303ea665a" alt="Profile Image" />
+</div>
+
